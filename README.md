@@ -20,8 +20,5 @@ This project implements real-time facial emotion detection using a Convolutional
 
 The CNN is built with 4 convolutional layers and uses an Adam optimizer with early stopping and model checkpoints.
 
-### Example Detection
-![Emotion Detection Example](image1.png)
-![Emotion Detection Example](imge2.png)
 
 
